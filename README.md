@@ -58,7 +58,7 @@ Meu objetivo é contribuir para o desenvolvimento de produtos que não sejam ape
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 100px;" 
+    style="padding-right: 101px;" 
     src="https://github-readme-stats.vercel.app/api?username=rafaellapmagalhaes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
