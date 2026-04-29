@@ -1,16 +1,72 @@
-## Hi there 👋
+## Olá, venha me conhecer!
 
-<!--
-**rafaellapmagalhaes/rafaellapmagalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😊 Quem sou eu?
 
-Here are some ideas to get you started:
+Eu sou a Rafa, tenho 18 anos e atualmente estudo Análise e Desenvolvimento de Sistemas na Fatec Rio Preto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Busco sempre evoluir na área de tecnologia, me especializando em desenvolvimento full stack, com conhecimentos em front-end e back-end, além de fundamentos importantes que sustentam sistemas modernos.
+
+Tenho desenvolvido minhas habilidades em:
+
+- UX/UI (com foco atual em experiência e interface do usuário)
+- CX (Customer Experience)
+- Linguagens como Python, HTML e Java
+- Fundamentos de Cibersegurança
+- Inglês intermediário voltado para tecnologia
+- Marketing Digital e Social Media
+
+🎯 Áreas de interesse e atuação
+
+Tenho interesse em atuar principalmente em áreas que envolvam a criação de experiências digitais eficientes, intuitivas e centradas no usuário, como:
+
+- Front-end e interfaces digitais
+- UX/UI Design (foco em usabilidade, acessibilidade e experiência do usuário)
+- Desenvolvimento full stack
+- Criação e melhoria de produtos digitais
+- Soluções tecnológicas voltadas à experiência do usuário
+
+Meu objetivo é contribuir para o desenvolvimento de produtos que não sejam apenas funcionais, mas também agradáveis, acessíveis e impactantes para quem utiliza.
+
+## 📬 Contatos
+<div>
+<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/rafaella-magalhães-a720b23b0/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:rafaellapmg@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+## 🌟 Estrelas
+</a> 
+    <a href="[https://github.com/rafaellapmagalhaes?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/rafaellapmagalhaes?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+</div>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=rafaellapmagalhaes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellapmagalhaes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
