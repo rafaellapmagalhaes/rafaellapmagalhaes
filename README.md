@@ -10,10 +10,9 @@ Tenho desenvolvido minhas habilidades em:
 
 - UX/UI (com foco atual em experiência e interface do usuário)
 - CX (Customer Experience)
-- Linguagens como Python, HTML e Java
+- Linguagens como Python.
 - Inteligência Artificial
 - Inglês intermediário voltado para tecnologia
-- Marketing Digital e Social Media
 
 🎯 Áreas de interesse e atuação
 
