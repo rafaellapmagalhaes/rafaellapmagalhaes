@@ -11,17 +11,17 @@ Tenho desenvolvido minhas habilidades em:
 - UX/UI (com foco atual em experiência e interface do usuário)
 - CX (Customer Experience)
 - Linguagens como Python, HTML e Java
-- Fundamentos de Cibersegurança
+- Inteligência Artificial
 - Inglês intermediário voltado para tecnologia
 - Marketing Digital e Social Media
 
 🎯 Áreas de interesse e atuação
 
-Tenho interesse em atuar principalmente em áreas que envolvam a criação de experiências digitais eficientes, intuitivas e centradas no usuário, como:
+Tenho interesse em atuar principalmente em áreas que envolvam a criação de experiências digitais eficientes, intuitivas e centradas no usuário e empresas, como:
 
-- Front-end e interfaces digitais
+- Inteligência Artificial
 - UX/UI Design (foco em usabilidade, acessibilidade e experiência do usuário)
-- Desenvolvimento full stack
+- Engenharia de Automações
 - Criação e melhoria de produtos digitais
 - Soluções tecnológicas voltadas à experiência do usuário
 
